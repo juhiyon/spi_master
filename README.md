@@ -1,1 +1,2 @@
-# spi_master
+FPGA-SPI MASTER
+ARDUINO-SPI SLAVE
